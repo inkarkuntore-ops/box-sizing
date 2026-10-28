@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div {
+    width: 250px;
+    padding: 25px;
+    border: 5px solid rgb(80, 221, 80);
+    background-color: rgb(172, 229, 143);
+    border-radius: 10px;
+}
